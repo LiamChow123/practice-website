@@ -14,7 +14,7 @@
 
 <img class="Liam" src="static/liam.jpg" alt="Liam">
 
-<p>I am Liam Chow and I go to Sacred Heart College as a year 11 student.
+<p class="homepage-description">I am Liam Chow and I go to Sacred Heart College as a year 11 student.
 I am using this website as a practice for my end of year computer science project</p>
 
 </body>
