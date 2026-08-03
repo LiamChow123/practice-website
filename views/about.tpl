@@ -8,13 +8,12 @@
     <nav>
         <a href="/">Home</a>
         <a href="/about">About</a>
-        <a href="/contact">Contact</a>
     </nav>
 
-    <h1>about</h1>
+    <h1>This is about me.</h1>
 
     
 </body>
-    <p>about.</p>
+    <p>STUFF</p>
 </body>
 </html>

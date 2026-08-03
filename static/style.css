@@ -1,9 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     margin: 40px;
-    background-color: #f8f8f8;
+    background-color: rgb(72, 123, 201);
     color: #333;
-    
 }
 
 nav {
@@ -20,9 +19,28 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+    
 }
 
 h1 {
     color: #444;
 }
 
+.Liam {
+  width: 300px;
+  border: 6px solid black;
+  border-radius: 8px;
+}
+
+p {
+  margin-left: 350px;
+  margin-top: -400px;
+  font-size: 25px; 
+  width: 350px;    
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 4px;
+  padding: 20px;
+  height: 300px;
+  width: 300px;
+}
