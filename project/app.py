@@ -5,12 +5,6 @@ from bottle import run, route, template, view, static_file
 def home():
     return {} 
 
-@route('/about')
-def about():
-    return template('about') 
-
-
-
 
 @route('/static/<filename>')
 def server_static(filename):
