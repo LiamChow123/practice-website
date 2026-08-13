@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>About Page</title>
-    <link rel="stylesheet" href="/static/style.css?v=1">
+    <link rel="stylesheet" href="/static/style.css?">
 </head>
 
 <body>
@@ -12,7 +12,6 @@
         <a href="/about">About</a>    
         <a href="/contact">Contact</a>    
     </nav>
-    
 <div>
 <h1>About</h1>
 

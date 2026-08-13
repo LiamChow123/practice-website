@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>About Page</title>
-    <link rel="stylesheet" href="/static/style.css?v=1">
+    <link rel="stylesheet" href="/static/style.css?">
 </head>
 
 <body>
